@@ -19,3 +19,21 @@
 1.8 HTML Links and Anchor Tags
 
 1.9 How to Ace this Course?
+
+## 2. Intermediate HTML
+
+2.1 HTML Tables
+
+2.2 Using HTML Tables for Layout
+
+2.3 HTML Tables Code Challenge
+
+2.4 HTML Tables Solution Walkthrough
+
+2.5 HTML Forms
+
+2.6 Forms in Practice - Create a Contact Me Form
+
+2.7 Publish Your Website!
+
+2.8 Tip from Angela - Habit Building with the Calendar Trick
