@@ -37,3 +37,9 @@
 2.7 Publish Your Website!
 
 2.8 Tip from Angela - Habit Building with the Calendar Trick
+
+## 3. Introduction To CSS
+
+## Flow Diagram for Branching
+
+1. [Branching Diagram](https://app.diagrams.net/#G1kxfAaGAP3mLu0OlJ0R6ky0uNVwtAB5Fe)
