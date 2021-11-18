@@ -40,6 +40,24 @@
 
 ## 3. Introduction To CSS
 
+3.1 Introduction to CSS
+
+3.2 Inline CSS
+
+3.3 Internal CSS
+
+3.4 External CSS
+
+3.5 How to Debug CSS Code
+
+3.6 The Anatomy of CSS Syntax
+
+3.7 CSS Selectors
+
+3.8 Classes vs. Ids
+
+3.9 Tip from Angela - Dealing with Distractions
+
 ## Flow Diagram for Branching
 
 1. [Branching Diagram](https://app.diagrams.net/#G1kxfAaGAP3mLu0OlJ0R6ky0uNVwtAB5Fe)
