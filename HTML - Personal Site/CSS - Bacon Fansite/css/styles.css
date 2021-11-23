@@ -20,3 +20,13 @@ img {
 .broccoli {
     background-color: red;
 }
+
+.circular {
+    border-radius: 100%;
+}
+
+/* Id Selectors */
+
+#heading {
+    color: blue;
+}
