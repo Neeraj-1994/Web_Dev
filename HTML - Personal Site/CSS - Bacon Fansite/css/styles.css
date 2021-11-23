@@ -5,11 +5,9 @@ h1 {
 }
 
 /* Commenting in CSS */
-/*
-img {
-    background-color: red;
+img:hover {
+    background-color: gold;
 }
-*/
 
 /* Class Selectors */
 
@@ -19,4 +17,14 @@ img {
 
 .broccoli {
     background-color: red;
+}
+
+.circular {
+    border-radius: 100%;
+}
+
+/* Id Selectors */
+
+#heading {
+    color: blue;
 }
