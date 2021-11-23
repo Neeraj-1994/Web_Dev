@@ -58,6 +58,38 @@
 
 3.9 Tip from Angela - Dealing with Distractions
 
+## 4. Intermediate CSS
+
+4.1 What We'll Make - Styled Personal Site
+
+4.2 What Are Favicons
+
+4.3 HTML Divs
+
+4.4 The Box Model of Website Styling
+
+4.5 CSS Display Property
+
+4.6 CSS Static and Relative Positioning
+
+4.7 Absolute Positioning
+
+4.8 The Dark Art of Centering Elements with CSS
+
+4.9 Font Styling in Our Personal Site
+
+4.10 Adding Content to Our Website
+
+4.11 CSS Sizing
+
+4.12 CSS Font Property Challenge Solutions
+
+4.13 CSS Float and Clear
+
+4.14 Stylised Personal Site Solution Walkthrough
+
+4.15 Tip from Angela - Nothing Easy is Worth Doing!
+
 ## Flow Diagram for Branching
 
 1. [Branching Diagram](https://app.diagrams.net/#G1kxfAaGAP3mLu0OlJ0R6ky0uNVwtAB5Fe)
