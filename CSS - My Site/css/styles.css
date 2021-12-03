@@ -1,14 +1,16 @@
 body {
     margin: 0;
+    text-align: center;
 }
 
 h1 {
     margin-top: 0;
-    margin-bottom: 0;
 }
 
 .top-container {
     background-color: #EAF9F5;
+    position: relative;
+    padding-top: 100px;
 }
 
 .middle-container {
@@ -27,26 +29,14 @@ h1 {
     text-decoration: underline;
 }
 
-.red {
-    width: 100px;
-    height: 100px;
-    background-color: red;
+.bottom-cloud {
     position: absolute;
-    left: 200px;
-    top: 1100px;
+    left: 300px;
+    bottom: 300px;
 }
 
-.blue {
-    width: 100px;
-    height: 100px;
-    background-color: blue;
+.top-cloud {
     position: absolute;
-    left: 100px;
-    top: 1000px;
-}
-
-.yellow {
-    width: 100px;
-    height: 100px;
-    background-color: yellow;
+    right: 300px;
+    top: 50px;
 }
