@@ -90,6 +90,34 @@
 
 4.15 Tip from Angela - Nothing Easy is Worth Doing!
 
+## 5. Introduction to Bootstrap 4
+
+5.1 What is Bootstrap
+
+5.2 Installing Bootstrap
+
+5.3 Web Design 101 - Wireframing
+
+5.4 The Bootstrap Navigation Bar
+
+5.5 What we will make - Tin Dog
+
+5.6 Setting up our new Project
+
+5.7 Bootstrap Grid Layout System
+
+5.8 Adding Grid Layouts to our Website
+
+5.9 Bootstrap Containers
+
+5.10 Bootstrap Buttons & FontAwesome
+
+5.11 Styling Our Website Challenges & Solutions
+
+5.12 Bootstrap Challenge & Solution
+
+5.13 Tip from Angela - How to Deal with Procrastination
+
 ## Flow Diagram for Branching
 
 1. [Branching Diagram](https://app.diagrams.net/#G1kxfAaGAP3mLu0OlJ0R6ky0uNVwtAB5Fe)
